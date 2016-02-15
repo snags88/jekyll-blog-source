@@ -1,0 +1,22 @@
+#profile-border {
+  border-radius: 100%;
+  overflow: hidden;
+  border: 6px solid black;
+  height: 300px;
+  width: 300px;
+  float: right;
+  margin: 0 23px;
+}
+
+#profile-img {
+  width: 300px;
+  height: auto;
+}
+
+@media only screen and (max-width: 550px) {
+  #profile-border {
+    float: none;
+    margin: 0 auto;
+    margin-bottom: 25px;
+  }
+}

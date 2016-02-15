@@ -1,0 +1,42 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+source: source
+destination: _site
+sass:
+  sass_dir: _sass
+  style: expanded # compressed # expanded
+
+# permalink and highlighter
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
+
+# SEO settings
+title: gem install Seiji
+description: "A blog about Seiji's programming adventures."
+keywords: "Web development, Flatiron School, programming, ruby, ruby on rails, javascript, Jekyll, blog, web"
+
+# Site settings
+url: http://snags88.github.io
+baseurl: ""
+
+# Author settings
+author:
+  name      : Seiji Naganuma
+  job       : Full Stack Web Developer
+  bio       : ""
+  thumb     : /images/author.jpg
+  url       : http://snags88.github.io
+  github    : http://github.com/snags88
+  twitter   : http://twitter.com/S2k10
+  linkedin  : http://linkedin.com/in/snaganuma
+
+repo: http://github.com/snags88/snags88.github.io
+
+# comments
+#disqus_shortname: "fernandomoreira"
