@@ -5,5 +5,6 @@ source 'http://rubygems.org'
 gem 'github-pages'
 
 group :development do
+  gem 'rake'
   gem 'sass', '~> 3.4.10'
 end
