@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "New Blog"
+permalink:  "new-blog"
+date:   2016-02-15 15:51:00 -0500
+categories: general
+---
+This has been on the top of my Trello board's to-do list, but I finally
+got a new blog up and running. Since 3 months ago, I decided to
+discontinue my Limitless blog and move off of Wordpress. It was just a
+lot of unneccessary overhead and I also built the theme for that site
+when I had no idea how to use html and css. Now I'm on that Jekyll +
+Github pages game, serving up some static websites.
+
+Also Jekyll is kind of nice in that I can write stuff in markdown, which
+is way better than wrestling with friendly editor/raw html on
+Wordpress's CMS. `Code` will be easier to read and we'll have some
+syntax highlighting like this:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Seiji')
+#=> prints 'Hi, Seiji' to STDOUT.
+{% endhighlight %}
+
+I went with a more minimalistic theme called
+[dotX](http://jekyllthemes.org/themes/dotx/) and have customized it to
+fit my needs. No more crazy parallax effects on every page you visit!
+
+I have the posts from my prior site backed up so I'll be backfilling
+those as I get a chance. It'll also be fun and embarassing to read those posts again...
