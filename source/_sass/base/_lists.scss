@@ -16,6 +16,10 @@ ol {
   }
 }
 
+ul.no-style {
+  list-style-type: none;
+}
+
 dl {
   margin-bottom: $small-spacing;
 
