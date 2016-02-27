@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Flatiron: Week 10 & Week 11"
+permalink: "flatiron-week-10-11"
+date: 2015-04-18 19:11:00 -0500
+categories: flatiron-school
+---
+Whoa the last 2 weeks have been crazy! It was the span of our 2nd "project mode" time so my group and I have been spending countless hours hacking away to make an awesome app. I picked out a few of the guys I've really gotten to know well and our team chemistry was off the charts. We had the same standards for each other and articulated any problems we encountered, etc. Hands down best weeks at Flatiron. And with that, here is a quick two week recap:
+
+### Important Concepts
+
+1. **Network** - We've had a ton of people coming in to our school to talk to us about job searching and the consistent theme is that you need to network and follow up with people. If you're nilly willy about it, then chances are you won't get a job for a while. If you want it, you gotta go after it!
+
+### Interesting Topics
+
+1. **Websockets** - I'm still not 100% confident in talking about websockets, but I had to have a basic understanding to be able to build our chat functionality for our app. It was a deep hole that I had to go down, but eventually I figured it out with a lot of help from Avi. Dude's a genius. Anyways, websockets retain a connection between a client and if needed, the server can push data to the client. If you extend that to how a messaging system works, your client (aka browser) is subscribed to a channel (chatroom). Anytime someone publishes to the particular channel, say like a message, then all clients subscribed to the channel should get the message. That's the concept in a nutshell. There's more to it, but I'll leave that out for now.
+
+### Useful Resources
+
+1. <a href="https://www.google.com" target="_blank"><strong>Google</strong></a> - Wait wat? Yes Google. It is by far the best resource as long as you know how to use it. I'm curious to see how many times a day I use Google to look stuff up.
+2. <strong><a href="stackoverflow.com" target="_blank">StackOverflow</a></strong> - Another obvious one, but every time I find a post on StackOverflow similar to my issue, my hopes of solving the problem goes up because there are a lot of brilliant programmers on that website. Any issue you've faced before, someone else has seen it.
+
+### Inspirational Moments
+
+1. **My Project Group** - I mentioned this at the beginning of the post, but my group was the best group of guys I could have chosen to work with. All three of us got to school early (8ish) and stayed late even if we weren't working on the same feature. There was a lot of support all around and my teammates let me go down a crazy rabbit hole and knew that I needed solo coding time to figure it out. Others may not have been as understanding and that goes a long ways. These 2 guys will be extremely successful developers because of their work ethic, analytical intelligence, and emotional intelligence. Thanks for being awesome!
+
+### Laundry List
+
+1. **Science Fair** - Next week is the Science Fair, which means that I stand for 4 hours talking about projects I have completed throughout the semester. I need to polish up my projects so they're good to go. It'll be really fun and I'm looking forward to networking with developers from the community.
+2. **Exercise** - I've definitely been lacking in this department so I need to do a better job, especially with school winding down. My mind has been working hard, but I also need to start physically working out again.
+
+I think that's it for now! Exciting news regarding post Flatiron coming next week!
