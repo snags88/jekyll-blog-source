@@ -2,7 +2,7 @@
 layout: post
 title: "React-ion May"
 permalink: "react-ion-may"
-date: 2016-05-04 20:04:00 -0500
+date: 2016-05-04 10:04:00 -0500
 categories: web-development
 ---
 I decided to dedicate the month of May to studying the new hotness that
