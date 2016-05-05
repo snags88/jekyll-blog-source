@@ -19,11 +19,16 @@ what it is:
 React.js is the brain child of Facebook (ooos and ahhs) and was
 open-sourced back in 2013. From what I've seen so far, the React
 library/framework is primariy responsible for how data is presented and
-updated on the DOM. That is to say the view of the Model-View-Controller paradigm.
+updated on the DOM. That is to say the view of the Model-View-Controller
+paradigm.
 
 From a high-level, when using React, there are a bunch of components
 that are configured and rendered into different parts of the DOM. Each
-component is specified with properties like date, name, etc. These properties could change over time and as it does, React will rerender the component as needed. One of the buzzwords around this is React's usage of a virtual DOM to efficiently identify changes and update the real DOM.
+component is specified with properties like date, name, etc. These
+properties could change over time and as it does, React will rerender
+the component as needed. One of the buzzwords around this is React's
+usage of a virtual DOM to efficiently identify changes and update the
+real DOM.
 
 Another aspect of a component is that it gets a `render` function
 which is HTML templating written most commonly in JSX. This part makes
@@ -37,3 +42,4 @@ I'll be starting out by following
 [this](https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers)
 tutorial written for React + Rails. Crossing my fingers that this
 doesn't go over my head too much.
+
