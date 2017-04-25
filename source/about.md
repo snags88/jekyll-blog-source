@@ -5,7 +5,7 @@ subtitle:
 permalink: /about/
 ---
 <div id='profile-border'>
-  <img id='profile-img' src="https://dl.dropboxusercontent.com/u/16107869/profile.jpeg" alt="Profile image">
+  <img id='profile-img' src="https://avatars3.githubusercontent.com/u/9381931" alt="Profile image">
 </div>
 
 Hi there! I'm Seiji, a **web developer** based in **San Francisco**. I know, it's confusing that I'm not actually a Ruby gem, but there is [one name after me](https://github.com/ipc103/seiji){:target="_blank"}.
