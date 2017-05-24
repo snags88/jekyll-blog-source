@@ -6,7 +6,7 @@ date: 2017-05-24 07:30:00 -0500
 categories: web-development
 ---
 
-Ruby was my first programming language and I love it for the simplicity and the syntactic sugar. Python is another popular high-level language used a lot of its data crunching libraries. I wanted to take some time to compare the difference between the two and point out some differences between Ruby and Python.
+Ruby was my first programming language and I love it for the simplicity and the syntactic sugar. Python is another popular high-level language used a lot for its data crunching libraries. I wanted to take some time to compare the difference between the two and point out some differences between Ruby and Python.
 
 ## Version Managment
 Ruby has tools to manage the version of the Ruby language you use like `rvm` or `rbenv`. These tools allow you to
