@@ -42,7 +42,7 @@ There are some important ideas shared in this book like:
   flexibility and complexity.
 - Great design is about picking the **right abstractions at the right time**. Don't reach for the abstractions, let them present themselves in the code you write.
 
-What ended up happening for me for while I went through the initial exercise
+What ended up happening for me while I went through the initial exercise
 was that after the first couple of tests, I was going down a path of
 writing clever code. About half way through, I took a step back and
 looked at my text editor and thought to myself "Where do I make my next
