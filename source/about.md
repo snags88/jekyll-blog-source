@@ -8,16 +8,16 @@ permalink: /about/
   <img id='profile-img' src="https://avatars3.githubusercontent.com/u/9381931" alt="Profile image">
 </div>
 
-Hi there! I'm Seiji, a **web developer** based in **San Francisco**. I know, it's confusing that I'm not actually a Ruby gem, but there is [one name after me](https://github.com/ipc103/seiji){:target="_blank"}.
+Hi there! I'm Seiji, a **web developer** based in **San Francisco**. I know, it's confusing that I'm not actually a Ruby gem, but there is [one named after me](https://github.com/ipc103/seiji){:target="_blank"}.
 
 I currently work on the engineering team at
 **[Curology](http://curology.com/){:target="_blank"}** writing a whole
 lot of Javascript and PHP.
 
-Piror to that, I worked on the engineering team at the **[Flatiron School](http://flatironschool.com/){:target="_blank"}** based out of NYC, where I coincidentally went to school and learned how to become a web developer back in 2015.
+Prior to that, I worked on the engineering team at the **[Flatiron School](http://flatironschool.com/){:target="_blank"}** based out of NYC, where I coincidentally went to school and learned how to become a web developer back in 2015.
 
 In my life before web-development, I lived in the beautiful city of **Los Angeles** where
-I attended college and worked at a consultancy firm called
+I attended UCLA and worked at a consultancy firm called
 [Solver](http://solverusa.com){:target="_blank"}.
 
 My passions outside of programming include Crossfit, traveling
