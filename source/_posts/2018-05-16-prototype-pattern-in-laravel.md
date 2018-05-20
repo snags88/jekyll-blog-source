@@ -13,7 +13,7 @@ common place we use it in Laravel.
 ## Prototype Pattern
 The prototype pattern is one of the more simple ones to understand. In
 this creational pattern, we create a new object by copying an existing
-object. Wow that simple?! Yes. That simple.
+object. Wow, that simple?! Yes. That simple.
 
 PHP provides us a nice tool to easily copy an object too! The `clone`
 keyword will call the magic function `__clone` on an object and return a
